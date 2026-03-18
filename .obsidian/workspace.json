@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/routes/mindset/grit/+page.md",
+                "file": "src/routes/knowledge/information-literacy/+page.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/routes/mindset/grit/+page.md",
+                "file": "src/routes/knowledge/information-literacy/+page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/routes/mindset/grit/+page.md",
+                "file": "src/routes/knowledge/information-literacy/+page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/routes/mindset/grit/+page.md",
+                "file": "src/routes/knowledge/information-literacy/+page.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -185,11 +185,27 @@
   },
   "active": "54e6a048f7e1ce6d",
   "lastOpenFiles": [
+    "src/routes/creativity/+page.svelte",
+    "src/routes/mindset/+page.svelte",
+    "src/lib/assets/Pasted image 20260318085954.png",
+    "src/routes/knowledge/information-literacy/+page.md",
+    "src/routes/knowledge/scientific-inquiry/+page.md",
+    "src/lib/assets/Pasted image 20260318085711.png",
+    "src/routes/knowledge/applied-mathematics/+page.md",
+    "src/lib/assets/Pasted image 20260318085538.png",
+    "src/routes/knowledge/critical-reading/+page.md",
+    "src/routes/knowledge/writing/+page.md",
+    "src/routes/knowledge/research/+page.md",
+    "src/lib/assets/Pasted image 20260318084732.png",
+    "src/lib/assets/Pasted image 20260318084652.png",
+    "src/routes/mindset/vulnerability/+page.md",
+    "src/lib/components/subsection-overview.svelte",
+    "src/routes/mindset/reflection/+page.md",
+    "src/routes/mindset/grit/+page.md",
     "src/routes/mindset/desire-to-grow/+page.md",
     "src/routes/mindset/altruism/+page.md",
     "src/routes/mindset/empathy/+page.md",
     "src/lib/assets/Pasted image 20260318081800.png",
-    "src/routes/mindset/reflection/+page.md",
     "package.json.778684959",
     "pnpm-lock.yaml.1086592843",
     "_tmp_158517_481ff53b02d683298b10287a762e5437",
@@ -198,24 +214,13 @@
     "pnpm-lock.yaml.1389088248",
     "_tmp_157939_25a7806a6a7b9f26758064c81c5a8a95",
     "package.json.2237548417",
-    "pnpm-lock.yaml.2701709017",
-    "_tmp_157598_671aa078688529510dd976aef055af2b",
     "src/lib/assets/Pasted image 20260318080703.png",
     "src/lib/assets/Pasted image 20260318080641.png",
-    "src/routes/mindset/vulnerability/+page.md",
-    "src/routes/mindset/grit/+page.md",
     "src/lib/assets/Pasted image 20260318075239.png",
     "src/lib/assets/Pasted image 20260318075015.png",
     "Pasted.md",
-    "src/lib/assets/Pasted image 20260318074104.png",
-    "Pasted image 20260318073935.png",
-    "Pasted image 20260318073944.png",
     "src/routes/creativity/collaboration/+page.md",
     "src/routes/creativity/risk-taking/+page.md",
-    "src/routes/knowledge/information-literacy/+page.md",
-    "src/routes/knowledge/applied-mathematics/+page.md",
-    "src/routes/knowledge/critical-reading/+page.md",
-    "src/routes/knowledge/scientific-inquiry/+page.md",
     "src/routes/skills/critical-thinking/+page.md",
     "src/routes/skills/critical_thinking/+page.md",
     "src/routes/skills/management/+page.md",
@@ -225,8 +230,6 @@
     "src/routes/creativity/iteration/+page.md",
     "src/routes/creativity/ideation/+page.md",
     "src/routes/creativity/synthesis/+page.md",
-    "src/routes/creativity/curiosity/+page.md",
-    "src/routes/knowledge/information_literacy/+page.md",
-    "src/routes/knowledge/scientific_inquiry/+page.md"
+    "src/routes/creativity/curiosity/+page.md"
   ]
 }

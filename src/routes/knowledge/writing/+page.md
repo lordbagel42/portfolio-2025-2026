@@ -1,11 +1,13 @@
 # Writing
 
-This is the first paragraph of content for Writing. It provides an overview of the topic and introduces the key concepts that will be explored in the following sections.
+I wrote an analysis of Edgar Allan Poe’s _Cask of Amontillado_ short story [analysis iframe] defending how it is a complete story. Speaking with Sam about it, he struggled to find any technical complaints with the writing. He did suggest my flow could be better in my final short story, but that the structuring makes it unique, if anything. I was toying with a structural idea I had, so this was expected.
 
-![Placeholder Image 1](https://picsum.photos/seed/knowledge-writing1/800/400)
+<iframe 
+  src="https://docs.google.com/document/d/e/2PACX-1vRqlQAiEZp8w5V9hdPhE79WdRMBsJaVYhp4Rc4ZUNOWhqigjUqfVy7sgSmxaSce6MOzKQ6PDrs6gLne/pub?embedded=true" 
+  style="width:100%; max-width:800px; aspect-ratio:8.5/5; border:1px solid #ccc;">
+</iframe>
 
-The second paragraph delves deeper into the specifics of Writing. We discuss the practical applications, challenges, and best practices associated with this particular area of focus.
-
-The third paragraph concludes our introduction to Writing. It summarizes the main points and offers a look ahead at future developments or related topics of interest.
-
-![Placeholder Image 2](https://picsum.photos/seed/knowledge-writing2/800/400)
+<iframe 
+  src="https://docs.google.com/document/d/e/2PACX-1vTWGCZ0ij-D5EOxlYudyQpJvF4hVXHEkHRXRon_SQ0DyYSNEQupaGGf7n-eLca9wQA29NRqV6mCHq8J/pub?embedded=true" 
+  style="width:100%; max-width:800px; aspect-ratio:8.5/11; border:1px solid #ccc;">
+</iframe>

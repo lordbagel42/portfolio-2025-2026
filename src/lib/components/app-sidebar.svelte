@@ -6,13 +6,19 @@
 <Sidebar.Root {...$$props}>
 	<Sidebar.Header>
 		<div class="flex items-center gap-2 px-4 py-2">
-			<span class="font-bold text-xl">Portfolio</span>
+			<a href="/" class="font-bold text-xl">Portfolio</a>
 		</div>
 	</Sidebar.Header>
 	<Sidebar.Content>
 		{#each sidebarConfig.navMain as group}
 			<Sidebar.Group>
-				<Sidebar.GroupLabel>{group.title}</Sidebar.GroupLabel>
+				<Sidebar.GroupLabel>
+					{#snippet child({ props })}
+						<a href={group.url} {...props} class={props.class + " hover:text-sidebar-foreground transition-colors"}>
+							{group.title}
+						</a>
+					{/snippet}
+				</Sidebar.GroupLabel>
 				<Sidebar.GroupContent>
 					<Sidebar.Menu>
 						{#each group.items as item}

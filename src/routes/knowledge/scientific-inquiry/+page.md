@@ -1,11 +1,9 @@
 # Scientific Inquiry
 
-This is the first paragraph of content for Scientific Inquiry. It provides an overview of the topic and introduces the key concepts that will be explored in the following sections.
+I built a mini airfoil and used it in our custom wind tunnel, which was a ton of fun. I plan to build a better wind tunnel soon for Hack Club when I have some free time, too. Really interesting to see how something I made actually affects airflow physically.
 
-![Placeholder Image 1](https://picsum.photos/seed/knowledge-scientific_inquiry1/800/400)
+(so apparently i don't have a photo of the wind tunnel. but here's the airfoil i tested?)
 
-The second paragraph delves deeper into the specifics of Scientific Inquiry. We discuss the practical applications, challenges, and best practices associated with this particular area of focus.
+![](Pasted%20image%2020260318085711.png)
 
-The third paragraph concludes our introduction to Scientific Inquiry. It summarizes the main points and offers a look ahead at future developments or related topics of interest.
-
-![Placeholder Image 2](https://picsum.photos/seed/knowledge-scientific_inquiry2/800/400)
+it used a straw to slide up or down & another for holding the thing together side to side.

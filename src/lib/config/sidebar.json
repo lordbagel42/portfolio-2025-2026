@@ -2,7 +2,7 @@
   "navMain": [
     {
       "title": "Mindset",
-      "url": "#",
+      "url": "/mindset",
       "items": [
         { "title": "Empathy", "url": "/mindset/empathy" },
         { "title": "Grit", "url": "/mindset/grit" },
@@ -14,7 +14,7 @@
     },
     {
       "title": "Knowledge",
-      "url": "#",
+      "url": "/knowledge",
       "items": [
         { "title": "Research", "url": "/knowledge/research" },
         { "title": "Writing", "url": "/knowledge/writing" },
@@ -26,7 +26,7 @@
     },
     {
       "title": "Creativity",
-      "url": "#",
+      "url": "/creativity",
       "items": [
         { "title": "Curiosity", "url": "/creativity/curiosity" },
         { "title": "Synthesis", "url": "/creativity/synthesis" },
@@ -38,7 +38,7 @@
     },
     {
       "title": "Skills",
-      "url": "#",
+      "url": "/skills",
       "items": [
         { "title": "Passion", "url": "/skills/passion" },
         { "title": "Leadership", "url": "/skills/leadership" },

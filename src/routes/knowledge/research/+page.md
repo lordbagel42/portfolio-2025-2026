@@ -1,11 +1,10 @@
 # Research
 
-This is the first paragraph of content for Research. It provides an overview of the topic and introduces the key concepts that will be explored in the following sections.
+In Design Lab, I walked around the building and just asked everyone I saw why they were, or were not, interested in dentistry. I was surprised by how consistently people said it was because they had a bad experience. Not just that dentistry is gross, but an actual, bad experience. This was the seedling that planted our entire solution.
 
-![Placeholder Image 1](https://picsum.photos/seed/knowledge-research1/800/400)
+In Aerospace, I learned that you can add a sort of curve to the bottom of a wing to cause a TON of compression of the air passing underneath it. This shows up in my final artifact really obviously. I've known how flight works since I was in third grade, but learning the different ways you can tweak an airfoil’s shape to get different results was nice.
 
-The second paragraph delves deeper into the specifics of Research. We discuss the practical applications, challenges, and best practices associated with this particular area of focus.
+this is the actual airfoil design I used!
+![](Pasted%20image%2020260318084652.png)
 
-The third paragraph concludes our introduction to Research. It summarizes the main points and offers a look ahead at future developments or related topics of interest.
-
-![Placeholder Image 2](https://picsum.photos/seed/knowledge-research2/800/400)
+![](Pasted%20image%2020260318084732.png)
