@@ -1,11 +1,6 @@
 # Altruism
 
-This is the first paragraph of content for Altruism. It provides an overview of the topic and introduces the key concepts that will be explored in the following sections.
+In Design Lab, my main goal was just pulling my weight and not being a burden on the team, which I think I succeeded in. This meant a lot of proactively finding things to do to help the team.
 
-![Placeholder Image 1](https://picsum.photos/seed/mindset-altruism1/800/400)
 
-The second paragraph delves deeper into the specifics of Altruism. We discuss the practical applications, challenges, and best practices associated with this particular area of focus.
-
-The third paragraph concludes our introduction to Altruism. It summarizes the main points and offers a look ahead at future developments or related topics of interest.
-
-![Placeholder Image 2](https://picsum.photos/seed/mindset-altruism2/800/400)
+**this page kinda sucks, might nuke.**

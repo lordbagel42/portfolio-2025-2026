@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/routes/mindset/empathy/+page.md",
+                "file": "src/routes/mindset/grit/+page.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/routes/mindset/empathy/+page.md",
+                "file": "src/routes/mindset/grit/+page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/routes/mindset/empathy/+page.md",
+                "file": "src/routes/mindset/grit/+page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/routes/mindset/empathy/+page.md",
+                "file": "src/routes/mindset/grit/+page.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -185,28 +185,38 @@
   },
   "active": "54e6a048f7e1ce6d",
   "lastOpenFiles": [
+    "src/routes/mindset/desire-to-grow/+page.md",
+    "src/routes/mindset/altruism/+page.md",
+    "src/routes/mindset/empathy/+page.md",
+    "src/lib/assets/Pasted image 20260318081800.png",
+    "src/routes/mindset/reflection/+page.md",
+    "package.json.778684959",
+    "pnpm-lock.yaml.1086592843",
+    "_tmp_158517_481ff53b02d683298b10287a762e5437",
+    "test-remark.js",
+    "package.json.3802650309",
+    "pnpm-lock.yaml.1389088248",
+    "_tmp_157939_25a7806a6a7b9f26758064c81c5a8a95",
+    "package.json.2237548417",
+    "pnpm-lock.yaml.2701709017",
+    "_tmp_157598_671aa078688529510dd976aef055af2b",
+    "src/lib/assets/Pasted image 20260318080703.png",
+    "src/lib/assets/Pasted image 20260318080641.png",
+    "src/routes/mindset/vulnerability/+page.md",
+    "src/routes/mindset/grit/+page.md",
+    "src/lib/assets/Pasted image 20260318075239.png",
+    "src/lib/assets/Pasted image 20260318075015.png",
+    "Pasted.md",
     "src/lib/assets/Pasted image 20260318074104.png",
     "Pasted image 20260318073935.png",
     "Pasted image 20260318073944.png",
-    "src/routes/mindset/empathy/+page.md",
     "src/routes/creativity/collaboration/+page.md",
-    "pnpm-lock.yaml",
-    "pnpm-lock.yaml.2262045463",
-    "_tmp_137437_09f5c38d6200dc14b65b135908171294",
-    "_tmp_135459_f67f7ab2f36192c33b798ffffbd1dba7",
     "src/routes/creativity/risk-taking/+page.md",
-    "src/routes/creativity/risk-taking",
     "src/routes/knowledge/information-literacy/+page.md",
-    "src/routes/knowledge/information-literacy",
     "src/routes/knowledge/applied-mathematics/+page.md",
-    "src/routes/knowledge/applied-mathematics",
     "src/routes/knowledge/critical-reading/+page.md",
-    "src/routes/knowledge/critical-reading",
     "src/routes/knowledge/scientific-inquiry/+page.md",
-    "src/routes/knowledge/scientific-inquiry",
     "src/routes/skills/critical-thinking/+page.md",
-    "src/routes/skills/critical-thinking",
-    "src/routes/mindset/desire-to-grow/+page.md",
     "src/routes/skills/critical_thinking/+page.md",
     "src/routes/skills/management/+page.md",
     "src/routes/skills/ownership/+page.md",
@@ -217,11 +227,6 @@
     "src/routes/creativity/synthesis/+page.md",
     "src/routes/creativity/curiosity/+page.md",
     "src/routes/knowledge/information_literacy/+page.md",
-    "src/routes/knowledge/scientific_inquiry/+page.md",
-    "src/routes/knowledge/applied_mathematics/+page.md",
-    "src/routes/knowledge/critical_reading/+page.md",
-    "src/routes/knowledge/writing/+page.md",
-    "src/routes/knowledge/research/+page.md",
-    "src/routes/mindset/reflection/+page.md"
+    "src/routes/knowledge/scientific_inquiry/+page.md"
   ]
 }
