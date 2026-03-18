@@ -178,6 +178,7 @@
   },
   "active": "a911df27a319adbc",
   "lastOpenFiles": [
+    "_tmp_135459_f67f7ab2f36192c33b798ffffbd1dba7",
     "src/routes/creativity/risk-taking/+page.md",
     "src/routes/creativity/risk-taking",
     "src/routes/knowledge/information-literacy/+page.md",
@@ -212,7 +213,6 @@
     "src/routes/knowledge/writing/+page.md",
     "src/routes/knowledge/research/+page.md",
     "src/routes/mindset/reflection/+page.md",
-    "src/routes/mindset/vulnerability/+page.md",
-    "src/routes/mindset/altruism/+page.md"
+    "src/routes/mindset/vulnerability/+page.md"
   ]
 }
