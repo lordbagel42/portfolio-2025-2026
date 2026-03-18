@@ -1,6 +1,6 @@
 # Collaboration
 
-This is the first paragraph of content for Collaboration. It provides an overview of the topic and introduces the key concepts that will be explored in the following sections.
+[This is the first paragraph of content for Collaboration. It provides an overview of the topic and introduces the key concepts that will be explored in the following sections.]([]())
 
 ![Placeholder Image 1](https://picsum.photos/seed/creativity-collaboration1/800/400)
 

@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "586b57194b008ec0",
+        "id": "3ac0f58cbc48705f",
         "type": "tabs",
         "children": [
           {
-            "id": "a911df27a319adbc",
+            "id": "54e6a048f7e1ce6d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "src/routes/mindset/empathy/+page.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "+page"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "src/routes/mindset/empathy/+page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for +page"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "src/routes/mindset/empathy/+page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from +page"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "src/routes/mindset/empathy/+page.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of +page"
             }
           }
         ]
@@ -176,8 +183,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "a911df27a319adbc",
+  "active": "54e6a048f7e1ce6d",
   "lastOpenFiles": [
+    "src/lib/assets/Pasted image 20260318074104.png",
+    "Pasted image 20260318073935.png",
+    "Pasted image 20260318073944.png",
+    "src/routes/mindset/empathy/+page.md",
+    "src/routes/creativity/collaboration/+page.md",
     "pnpm-lock.yaml",
     "pnpm-lock.yaml.2262045463",
     "_tmp_137437_09f5c38d6200dc14b65b135908171294",
@@ -195,12 +207,10 @@
     "src/routes/skills/critical-thinking/+page.md",
     "src/routes/skills/critical-thinking",
     "src/routes/mindset/desire-to-grow/+page.md",
-    "src/routes/mindset/desire-to-grow",
     "src/routes/skills/critical_thinking/+page.md",
     "src/routes/skills/management/+page.md",
     "src/routes/skills/ownership/+page.md",
     "src/routes/skills/passion/+page.md",
-    "src/routes/creativity/collaboration/+page.md",
     "src/routes/creativity/risk_taking/+page.md",
     "src/routes/creativity/iteration/+page.md",
     "src/routes/creativity/ideation/+page.md",
@@ -212,7 +222,6 @@
     "src/routes/knowledge/critical_reading/+page.md",
     "src/routes/knowledge/writing/+page.md",
     "src/routes/knowledge/research/+page.md",
-    "src/routes/mindset/reflection/+page.md",
-    "src/routes/mindset/vulnerability/+page.md"
+    "src/routes/mindset/reflection/+page.md"
   ]
 }
