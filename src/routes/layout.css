@@ -119,3 +119,20 @@
     @apply bg-background text-foreground;
   }
 }
+
+/* MDSvex / Markdown Styles */
+main h1 {
+  @apply text-4xl font-extrabold tracking-tight lg:text-5xl mb-8;
+}
+
+main p {
+  @apply leading-7 [&:not(:first-child)]:mt-6;
+}
+
+main img {
+  @apply rounded-xl border bg-muted shadow-sm my-8 w-full object-cover aspect-video;
+}
+
+main a {
+  @apply font-medium text-primary underline underline-offset-4;
+}

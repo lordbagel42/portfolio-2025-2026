@@ -1,0 +1,52 @@
+{
+  "navMain": [
+    {
+      "title": "Mindset",
+      "url": "#",
+      "items": [
+        { "title": "Empathy", "url": "/mindset/empathy" },
+        { "title": "Grit", "url": "/mindset/grit" },
+        { "title": "Desire to Grow", "url": "/mindset/desire-to-grow" },
+        { "title": "Altruism", "url": "/mindset/altruism" },
+        { "title": "Vulnerability", "url": "/mindset/vulnerability" },
+        { "title": "Reflection", "url": "/mindset/reflection" }
+      ]
+    },
+    {
+      "title": "Knowledge",
+      "url": "#",
+      "items": [
+        { "title": "Research", "url": "/knowledge/research" },
+        { "title": "Writing", "url": "/knowledge/writing" },
+        { "title": "Critical Reading", "url": "/knowledge/critical-reading" },
+        { "title": "Applied Mathematics", "url": "/knowledge/applied-mathematics" },
+        { "title": "Scientific Inquiry", "url": "/knowledge/scientific-inquiry" },
+        { "title": "Information Literacy", "url": "/knowledge/information-literacy" }
+      ]
+    },
+    {
+      "title": "Creativity",
+      "url": "#",
+      "items": [
+        { "title": "Curiosity", "url": "/creativity/curiosity" },
+        { "title": "Synthesis", "url": "/creativity/synthesis" },
+        { "title": "Ideation", "url": "/creativity/ideation" },
+        { "title": "Iteration", "url": "/creativity/iteration" },
+        { "title": "Risk Taking", "url": "/creativity/risk-taking" },
+        { "title": "Collaboration", "url": "/creativity/collaboration" }
+      ]
+    },
+    {
+      "title": "Skills",
+      "url": "#",
+      "items": [
+        { "title": "Passion", "url": "/skills/passion" },
+        { "title": "Leadership", "url": "/skills/leadership" },
+        { "title": "Ownership", "url": "/skills/ownership" },
+        { "title": "Communication", "url": "/skills/communication" },
+        { "title": "Management", "url": "/skills/management" },
+        { "title": "Critical Thinking", "url": "/skills/critical-thinking" }
+      ]
+    }
+  ]
+}

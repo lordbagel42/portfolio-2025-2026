@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "c245268a6cdd3f48",
+    "type": "split",
+    "children": [
+      {
+        "id": "586b57194b008ec0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a911df27a319adbc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8fa74f7ad7e23bb1",
+    "type": "split",
+    "children": [
+      {
+        "id": "07676459b0488b92",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc20da011d6b8b46",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6a4837fa89b0e0c6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "83955205a2a939e4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "66ad06ff74283911",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d2e8059879080d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4f5505532713e30",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "00b730a81261f4a8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "ffd2383f44d7a474",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3d404541c097f868",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "7a457889d016ea20",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "a911df27a319adbc",
+  "lastOpenFiles": [
+    "src/routes/creativity/risk-taking/+page.md",
+    "src/routes/creativity/risk-taking",
+    "src/routes/knowledge/information-literacy/+page.md",
+    "src/routes/knowledge/information-literacy",
+    "src/routes/knowledge/applied-mathematics/+page.md",
+    "src/routes/knowledge/applied-mathematics",
+    "src/routes/knowledge/critical-reading/+page.md",
+    "src/routes/knowledge/critical-reading",
+    "src/routes/knowledge/scientific-inquiry/+page.md",
+    "src/routes/knowledge/scientific-inquiry",
+    "src/routes/skills/critical-thinking/+page.md",
+    "src/routes/skills/critical-thinking",
+    "src/routes/mindset/desire-to-grow/+page.md",
+    "src/routes/mindset/desire-to-grow",
+    "src/routes/skills/critical_thinking/+page.md",
+    "src/routes/skills/critical_thinking",
+    "src/routes/skills/management/+page.md",
+    "src/routes/skills/management",
+    "src/routes/skills/ownership/+page.md",
+    "src/routes/skills/ownership",
+    "src/routes/skills/passion/+page.md",
+    "src/routes/creativity/collaboration/+page.md",
+    "src/routes/creativity/risk_taking/+page.md",
+    "src/routes/creativity/iteration/+page.md",
+    "src/routes/creativity/ideation/+page.md",
+    "src/routes/creativity/synthesis/+page.md",
+    "src/routes/creativity/curiosity/+page.md",
+    "src/routes/knowledge/information_literacy/+page.md",
+    "src/routes/knowledge/scientific_inquiry/+page.md",
+    "src/routes/knowledge/applied_mathematics/+page.md",
+    "src/routes/knowledge/critical_reading/+page.md",
+    "src/routes/knowledge/writing/+page.md",
+    "src/routes/knowledge/research/+page.md",
+    "src/routes/mindset/reflection/+page.md",
+    "src/routes/mindset/vulnerability/+page.md",
+    "src/routes/mindset/altruism/+page.md"
+  ]
+}
